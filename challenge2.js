@@ -1,4 +1,9 @@
 {
+
+    // in progress
+    // challenge 2 is suspiciously hard
+    // run it slowly and it skips floors that I think it should be stopping on;
+    // and I definitely need to sort the floors I'm going to.
     
     init: function(elevators, floors) {
         var elevator = elevators[0]; 

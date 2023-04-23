@@ -10,7 +10,12 @@ challenges.
 
 So the interest kept going - and then I ran across this website and thought ... let's give it a try.
 
-Simon 
-simon.garton@gmail.com
-https://github.com/simongarton/elevator-saga
-April 2023
+### details
+
+It's deceptively hard. Challenge 1 was OK, challenge 2 goes straight into it, so I'm dreading the later ones <grin>
+
+Oh, and I don't do Javascript normally, sorry.
+
+Simon   
+https://github.com/simongarton/elevator-saga  
+April 2023  
